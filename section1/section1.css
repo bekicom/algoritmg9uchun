@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
 }
 
 .section_first {
@@ -16,12 +15,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-
     gap: 24px;
 }
 
 .section_first_left>h1 {
-
     width: 605px;
     color: var(--secondary-colors-gray-headline, #212529);
     font-family: DM Sans;
